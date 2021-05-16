@@ -2,7 +2,7 @@
 
 # Hello, Welcome <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
-#### I'm Wellington, a 25 years old Software Developer from Brazil.
+### I'm Wellington, a 25 years old Software Developer from Brazil.
 
 - 💻 Software Developer
 - 🔭 I’m currently working at [5by5](http://5by5.com.br) on the development of the new [Azul Linhas Aéreas](https://www.voeazul.com.br) website, one of the biggest airline in Brazil.
@@ -19,7 +19,7 @@
 ![CSS](https://img.shields.io/badge/css-%231572b6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TS](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![.NET](https://img.shields.io/badge/.net-%2338225d.svg?&style=for-the-badge&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.net-%2338225d.svg?&style=for-the-badge&logo=c#)
 ![NODE](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![REACT](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![REACT NATIVE](https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
