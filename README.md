@@ -5,7 +5,7 @@
 ### I'm Wellington, a 25 years old Software Developer from Brazil.
 
 - 💻 Software Developer
-- 🔭 I’m currently working at [5by5](http://5by5.com.br) on the development of the new [Azul Linhas Aéreas](https://www.voeazul.com.br) website, one of the biggest airline in Brazil.
+- 🔭 I’m currently working at [Oowlish](https://www.oowlish.com) with an international client ([Petco](https://www.petco.com/shop/en/petcostore), an American pet retailer), developing new features and doing maintenance for its services.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wellingtonleitedev.wellingtonleitedev)
 [![Linkedin: Wellington Leite](https://img.shields.io/badge/Wellington_Leite-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-leite)
