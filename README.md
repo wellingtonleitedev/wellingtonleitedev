@@ -1,6 +1,6 @@
 <!--<img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">-->
 
-# Hello, Welcome <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
+# Hello, Welcome
 
 ### I'm Wellington, a 25 years old Software Developer from Brazil.
 
