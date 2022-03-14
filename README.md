@@ -29,8 +29,8 @@
 ## &#x1f4c8; GitHub Stats
 
 <div align="left">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=wellingtonleitedev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonleitedev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/><br>
+  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=wellingtonleitedev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img align="right" height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonleitedev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/><br>
 </div>
 
 <!-- ## 🏆 GitHub Trophies
