@@ -28,15 +28,12 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<div style="align-items:center; display:flex; gap: 5px">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wellingtonleitedev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonleitedev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/><br>
 </div>
 
-<!-- ## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=wellingtonleitedev&theme=nord&column=7)
-
+<!--
 ## 👨‍💻 This week, I spent my time on:
 
 [![Wellington's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wellingtonleitedev&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://wakatime.com/@wellingtonleitedev) -->
